@@ -23,8 +23,8 @@ Conforme relatado na dissertação, conseguimos obter o perfil a seguir, iterand
 
 Notamos indícios de problemas com essa solução, por causa das descontinuidades. Ainda estamos por decidir se é uma questão mais computacional ou da matemática usada na construção do algoritmo.
 
-Anexamos também um [detalhamento dos últimos bugs detectados na parte final do trabalho](https://github.com/gariandi/MagnetoTermoacustica---mestrado/blob/master/%C3%BAltimos%20bugs%20consertados.pdf) .
+Anexamos também um [detalhamento dos últimos bugs detectados na parte final do trabalho](https://github.com/gariandi/MagnetoTermoacustica---mestrado/blob/master/%C3%BAltimos%20bugs%20detectados.pdf) .
 
-Plots de resultados intermediários, como o dessa matriz abaixo (sistema linear continuidade/conds contorno), parecem estar saindo normalmente, em sua maioria, nesta versão.
+Plots de resultados intermediários, como o dessa matriz abaixo (sistema linear continuidade/conds contorno), parecem estar saindo, em sua maioria, nesta versão.
 
 ![resultado intermediário - matriz M](https://github.com/gariandi/MagnetoTermoacustica---mestrado/blob/master/resultado%20intermedi%C3%A1rio%20-%20matriz%20M.png)

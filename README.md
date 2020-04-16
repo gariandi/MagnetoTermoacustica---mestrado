@@ -5,6 +5,8 @@ O script MagnetoTermoAcust_completo.m chama nossa última versão dos códigos p
 O problema, sua modelagem e o método de solução implementados estão discutidos resumidamente na [apresentação](https://github.com/gariandi/MagnetoTermoacustica---mestrado/blob/master/Apresentacao.pdf) e em detalhe na [dissertação](https://github.com/gariandi/MagnetoTermoacustica---mestrado/blob/master/disserta%C3%A7%C3%A3o%20Gabriel%20R%20A%20Silva%20-%20Magneto%20Termoac%C3%BAstica.pdf),
 mas baseia-se resumidamente numa extensão do modelo de Rott (1969) para fenômenos termoacústicos.
 
+Os arquivos geraInput.m e PLOTA_ARTIGOV5_3_completo.m precisam estar juntos no mesmo diretório do MagnetoTermoAcust_completo.m . Para o script funcionar basta chamar por MagnetoTermoAcust_completo no prompt do Matlab.
+
 Inputs do programa: a amplitude da oscilação de pressão (p0), o comprimento do tubo(L), o meio (pode ser ar ou gálio), o raio do tubo(rmax), as condições de contorno (nros binários a e b), as
 temperaturas nas extremidades (Ta e Tb) e alguns parâmetros referentes ao perfil de temperatura imposto externamente.
 
